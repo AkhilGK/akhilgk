@@ -1,12 +1,10 @@
+
 [![MasterHead](https://previews.123rf.com/images/nadine3000/nadine30001811/nadine3000181100007/112696164-mobile-app-and-website-development-3d-isometric-concept-software-management-vector-illustration.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akhil G Krishnan</h1>
 <h3 align="center">A passionate flutter developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgk&label=Profile%20views&color=0e75b6&style=flat" alt="akhilgk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilgk" alt="akhilgk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile application development using Flutter**
 
